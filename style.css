@@ -1,0 +1,48 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+
+.purple.selected {
+  background-color: purple;
+}
+
+.red.selected {
+  background-color: rgb(255, 0, 0);
+}
+
+.blue.selected {
+  background-color: blue;
+}
+
+.orange.selected {
+  background-color: orange;
+}
+
+.green.selected {
+  background-color: green;;
+}
+
+.red {
+  background-color: aliceblue;
+}
+
+.purple {
+  background-color: aliceblue;
+}
+
+.blue {
+  background-color: aliceblue;
+}
+
+.green {
+  background-color: aliceblue;
+}
+
+.orange {
+  background-color: aliceblue;
+}
